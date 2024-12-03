@@ -1,0 +1,14 @@
+#[]>player-character "Player Character"
+By: Thunderhelm
+
+<-[Text: Name](Name Here)
+<-[Text: Player Name](Player Here)
+<-[Row: Class]{Table: #[]>class}
+<-[Num: Level](0){Min: 1}
+
+<-[Num: STR]{Min: 1}
+<-[Num: SKL]{Min: 1}
+<-[Num: DEX]{Min: 1}
+<-[Num: BRV]{Min: 1}
+<-[Num: SAN]{Min: 1}
+<-[Num: ABS]{Min: 1}
